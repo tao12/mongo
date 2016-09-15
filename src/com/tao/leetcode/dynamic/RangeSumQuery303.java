@@ -1,4 +1,4 @@
-package com.tao.leetcode.DynamicProgramming;
+package com.tao.leetcode.dynamic;
 
 //数组题注意下表越界啊！！！！！！！！！
 public class RangeSumQuery303 {

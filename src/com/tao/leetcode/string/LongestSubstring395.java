@@ -1,4 +1,4 @@
-package com.tao.leetcode.String;
+package com.tao.leetcode.string;
 
 public class LongestSubstring395 {
 	public static void main(String[] args) {

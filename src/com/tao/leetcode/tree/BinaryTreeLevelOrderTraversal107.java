@@ -33,6 +33,7 @@ public class BinaryTreeLevelOrderTraversal107 {
 	}
     
     public static List<List<Integer>> levelOrderBottom(TreeNode root) {
+    	map.clear();
         if(root==null) return Collections.EMPTY_LIST;
         int depth=0;
         List<TreeNode> list=new ArrayList<>();

@@ -1,5 +1,5 @@
 package com.tao.algorithm;
 
-public class Queue {
+public class StackTao {
 
 }

@@ -1,0 +1,81 @@
+j:0 start:0
+first swap:
+123
+	j:1 start:1
+	first swap:
+	123
+		j:2 start:2
+		first swap:
+		123
+		add!
+		second swap:
+		123
+	second swap:
+	123
+	j:2 start:1
+		first swap:
+		132
+		j:2 start:2
+		first swap:
+		132
+		add!
+		second swap:
+		132
+	second swap:
+	123
+second swap:
+123
+j:1 start:0
+first swap:
+213
+	j:1 start:1
+	first swap:
+	213
+	j:2 start:2
+	first swap:
+	213
+	add!
+	second swap:
+	213
+	second swap:
+	213
+	j:2 start:1
+	first swap:
+	231
+	j:2 start:2
+	first swap:
+	231
+	add!
+	second swap:
+	231
+	second swap:
+	213
+second swap:
+123
+j:2 start:0
+first swap:
+321
+	j:1 start:1
+	first swap:
+	321
+	j:2 start:2
+	first swap:
+	321
+	add!
+	second swap:
+	321
+	second swap:
+	321
+	j:2 start:1
+	first swap:
+	312
+	j:2 start:2
+	first swap:
+	312
+	add!
+	second swap:
+	312
+	second swap:
+	321
+second swap:
+123

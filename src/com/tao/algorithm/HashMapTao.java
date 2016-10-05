@@ -1,5 +1,6 @@
 package com.tao.algorithm;
 
+import java.util.HashMap;
 import java.util.Set;
 
 public class HashMapTao {
@@ -20,5 +21,6 @@ public class HashMapTao {
 	public static void main(String[] args) {
 		java.util.HashMap<Integer, Integer> map = new java.util.HashMap<>();
 		Set<Integer> set = map.keySet();
+		HashMap<Integer, String> map2=new HashMap<>();
 	}
 }
